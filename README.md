@@ -26,10 +26,10 @@
 
 ## 詳細
 
-・利用ツール　Python3, Tensorflow, Optuna
+・利用ツール:　Python3, Tensorflow, Optuna
 
-・開発環境　Jupyter Notebook
+・開発環境:　Jupyter Notebook
 
-・用いたデータ [心電図データのデータセット(qtdb/sel102 ECG dataset)](http://www.cs.ucr.edu/~eamonn/discords/qtdbsel102.txt)
+・異常検知対象データ: [心電図データのデータセット(qtdb/sel102 ECG dataset)](http://www.cs.ucr.edu/~eamonn/discords/qtdbsel102.txt)
 
 
